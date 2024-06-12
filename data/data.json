@@ -1,0 +1,38 @@
+{
+    "places": [
+       {  "id":"1",
+          "name":"Nainital",
+          "altitude":"0",
+          "bestTimeToVisit":"",
+          "cost":"",
+          "path":"/static/images/nainital2.jpg"},
+        
+          { "id":"2",
+          "name":"Bhimtal",
+          "altitude":0,
+          "bestTimeToVisit":"",
+            "cost":"",
+          "path":"/static/images/bhimtal1.jpg"},
+        
+          { "id":"3",
+          "name":"Rishikesh",
+          "altitude":0,
+          "bestTimeToVisit":"",
+          "cost":"",
+          "path":"/static/images/rishikesh.jpg"},
+        
+        { "id":"4",
+          "name":"Kedarnath",
+          "altitude":0,
+          "bestTimeToVisit":"",
+          "cost":"",
+          "path":"/static/images/kedarnath.jpg"},
+
+        { "id":"5",
+          "name":"Munsiyari",
+          "altitude":0,
+          "bestTimeToVisit":"",
+          "cost":"",
+          "path":"/static/images/munsiyari.jpg"}
+    ]
+  }
